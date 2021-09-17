@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoEquThreeMeterModelScan", "AutoEquThreeMeterModelScan\AutoEquThreeMeterModelScan.csproj", "{4C42846C-587F-4639-9080-74CA4896D40D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HkMvCodeReaderManager", "HkMvCodeReaderManager\HkMvCodeReaderManager.csproj", "{EAFE2DD5-A3B3-4C04-9CBC-72317D1C1843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C42846C-587F-4639-9080-74CA4896D40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C42846C-587F-4639-9080-74CA4896D40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C42846C-587F-4639-9080-74CA4896D40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C42846C-587F-4639-9080-74CA4896D40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFE2DD5-A3B3-4C04-9CBC-72317D1C1843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFE2DD5-A3B3-4C04-9CBC-72317D1C1843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFE2DD5-A3B3-4C04-9CBC-72317D1C1843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFE2DD5-A3B3-4C04-9CBC-72317D1C1843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB158D4-0817-42C0-B4F9-CC86B0A45E1B}
+	EndGlobalSection
+EndGlobal
